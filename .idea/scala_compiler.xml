@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="Tcs_project">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Teja\IdeaProjects\Tcs_project\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
